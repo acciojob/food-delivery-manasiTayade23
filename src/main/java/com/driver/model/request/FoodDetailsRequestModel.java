@@ -1,7 +1,11 @@
 package com.driver.model.request;
 
-public class FoodDetailsRequestModel {
+import javax.persistence.Entity;
+import javax.persistence.Table;
 
+
+public class FoodDetailsRequestModel {
+	
 	private String foodName;
 	private String foodCategory;
 	private float foodPrice;

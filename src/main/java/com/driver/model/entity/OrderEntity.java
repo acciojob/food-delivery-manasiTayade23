@@ -1,6 +1,4 @@
-package com.driver.io.entity;
-
-import java.io.Serializable;
+package com.driver.model.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
