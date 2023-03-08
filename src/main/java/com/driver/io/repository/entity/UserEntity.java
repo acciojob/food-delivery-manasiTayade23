@@ -1,4 +1,4 @@
-package com.driver.model.entity;
+package com.driver.io.repository.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

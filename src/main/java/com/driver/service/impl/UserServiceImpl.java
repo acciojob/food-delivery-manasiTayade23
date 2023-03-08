@@ -1,7 +1,7 @@
 package com.driver.service.impl;
 
 import com.driver.io.repository.UserRepository;
-import com.driver.model.entity.UserEntity;
+import com.driver.io.repository.entity.UserEntity;
 import com.driver.model.request.UserDetailsRequestModel;
 import com.driver.model.response.OperationStatusModel;
 import com.driver.model.response.RequestOperationName;

@@ -1,6 +1,6 @@
 package com.driver.service.impl;
 import com.driver.io.repository.FoodRepository;
-import com.driver.model.entity.FoodEntity;
+import com.driver.io.repository.entity.FoodEntity;
 import com.driver.model.request.FoodDetailsRequestModel;
 import com.driver.model.response.FoodDetailsResponse;
 import com.driver.model.response.OperationStatusModel;
